@@ -35,7 +35,6 @@ var defaultProduct = exports.defaultProduct = {
 var defaultUser = exports.defaultUser = {
   username: 'meupedidoauth',
   password: 'meupedidoauth2018'
-<<<<<<< HEAD
 };
 
 var defaultOrder = exports.defaultOrder = {
@@ -48,6 +47,4 @@ var defaultOrder = exports.defaultOrder = {
   }],
   client: defaultClient,
   totalByOrder: 200
-=======
->>>>>>> 4f0b0f06b8c19d8916c2ad2c173b9c92b1e9ad96
 };
